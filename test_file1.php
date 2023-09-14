@@ -1,2 +1,2 @@
 <?php
-echo "This is first file edit local system server changes second attempt. This line added from Navi Lap2. lap2 edit1";
+echo "This is first file edit local system server changes second attempt. This line added from Navi Lap2. lap2 edit1. lap2 edit2";
