@@ -1,3 +1,3 @@
 <?php 
 
-echo "Edit first attempt auto deploy";
+echo "Edit first attempt auto deploy, second attempt";
